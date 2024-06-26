@@ -1,0 +1,27 @@
+body{
+    background-color: chartreuse;
+    text-align: center;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+button:hover{
+    padding: 20px;
+}
+
+#TextoParagrafo{
+    font-size: 25px;
+}
+
+#mensagem{
+    font-size: 20px;
+}
+
+p{
+    font-size: 20px;
+}
